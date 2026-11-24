@@ -1,0 +1,1 @@
+{"description":"One Word From Grandma — a single word a grandma would text about AI.","engines":{"node":">=22"},"license":"MIT","name":"u-0xkianno-one-word-from-grandma-f04bed16","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
